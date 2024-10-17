@@ -1,2 +1,3 @@
 # FloorCleanerArduino
 An Arduino based Bluetooth controlled robotic vehicle used as floor cleaner
+In the project, the floor cleaner was controlled using a Bluetooth module. In the other version, voice control was also applied. The floor cleaner was basically a robotic vehicle with two wheels controlled by two dc motors. There was a rotating mopper in front of the vehicle controlled by a dc motor. There was also a water reservoir with dc pump. To clean the dust, water was thrown using a pump and the mopper was rotated to clean it. A roller on the back side of the vehicle was used to drag the dust after cleaning by mopper. The roller was controlled by a servo motor. The power to all the motors and Arduino was supplied by batteries.
